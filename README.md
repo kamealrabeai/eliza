@@ -1,4 +1,4 @@
-# Eliza 🤖
+# كامل 🤖
 
 <div align="center">
   <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
